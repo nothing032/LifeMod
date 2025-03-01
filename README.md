@@ -1,2 +1,2 @@
-# Mod-Life
+# LifeMod
 Plugin For BombSquad
