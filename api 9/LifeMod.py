@@ -19,7 +19,7 @@ Y4zxMSnBnXeSQWPJKMR78nwr0njSp6UbyrlkhlMWWObzECVwFs = {"bi":"bomb ice",
     "r":"remove", "sh":"shield", "sl":"sleep", "tex":"texturize", "t":"tint",
     "u":"unfreeze", "tag":"tag", "cba":"codeblocker", "efs":"smoke",
     "fire":"fire", "re":"revive", "sp":"speed", "k":"kick", "sm":"slowswitch",
-    "vip":"vip", "spin":"spin", "g":"god", "z":"invinvible",
+    "vip":"vip", "spin":"spin", "g":"god", "z":"invincible",
     "cbb":"codeblockerb", "plasma":"plasma", "spike":"spike", "orb":"orb",
     "fish":"fish", "spidy":"spidy"}
 
@@ -36,3 +36,4 @@ import base64,babase,codecs;val = "Y2xhc3MgTW9ydGV6YSgpOgogZGVmIF9fZGVjb2RlX18oc
 
 class Mod(babase.Plugin):
  pass
+
